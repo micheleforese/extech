@@ -1,0 +1,13 @@
+# Python cache
+**/__pycache__
+
+# Build 
+/build
+**/*.egg-info
+
+# Code Editors settings
+.vscode/*
+!.vscode/tasks.json
+
+# etc
+env
