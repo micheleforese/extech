@@ -2,8 +2,6 @@
 
 ## Light Meter 407026
 
-<!-- ```{.Python, .copy} -->
-
 ```py
 import extech
 
