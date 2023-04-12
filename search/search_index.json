@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Extech Devices","text":""},{"location":"#light-meter-407026","title":"Light Meter 407026","text":"<pre><code>import extech\nlux_meter = extech.LightMeter(device_port=\"/dev/ttyUSB1\")\ndata: int | None = lux_meter.read()\nprint(data)\n</code></pre>"}]}
