@@ -4,7 +4,7 @@ from setuptools import find_packages, setup
 
 version = "0.0.1"
 setup(
-    name="Extech Light Meter",
+    name="extech",
     version=version,
     description="Extech Light Meter",
     long_description=Path("README.md").read_text(),
